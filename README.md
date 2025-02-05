@@ -1,1 +1,1 @@
-# CS145Assingment3
+This program contains a main class that runs all the methods based on what the user wants to see. The other classes are one "Parent" class that then the other subclasses can inherit the methods from and change specifics based on the individual subclass attributes. The user inputs a specific animal they would like to know about and then the program prints out information about that specific animal. 
